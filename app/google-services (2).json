@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "252763368391",
+    "firebase_url": "https://androidapp-89238-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "androidapp-89238",
+    "storage_bucket": "androidapp-89238.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252763368391:android:0a183214b29aab62f907e2",
+        "android_client_info": {
+          "package_name": "dem.corp.androidmessenger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ9-tQBg7VVBaZpnoI4zpxgWVebqRcW5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
